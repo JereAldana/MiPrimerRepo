@@ -1,0 +1,30 @@
+
+.navegacion {
+width: 50%;
+height: 10vh;
+position: relative;
+left: 25%;
+}
+
+li {
+    display: inline-block;
+}
+
+.l1 {
+    width: 25%;
+    left: 50px;
+    top: 15px;
+    position: relative;
+}
+.l2 {
+    width: 25%;
+    left: 130px;
+    top: 15px;
+    position: relative;
+}
+.l3 {
+    width: 25%;
+    left: 220px;
+    top: 15px;
+    position: relative;
+}
